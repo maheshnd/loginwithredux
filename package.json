@@ -1,0 +1,19 @@
+{
+  "name": "rajyugtest",
+  "version": "1.0.0",
+  "description": "test for react dev",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mahesh",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.4.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.14",
+    "redux-thunk": "^2.3.0"
+  }
+}
