@@ -6,7 +6,7 @@ const Finance = ({ loadUser }) => {
   useEffect(() => {
     loadUser();
 	
-	// eslint-disable-next-line to the line before.
+	
   }, []);
 
   return (
