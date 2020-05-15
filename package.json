@@ -4,8 +4,7 @@
   "description": "test for react dev",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-   
+    "start": "node server.js"
   },
   "author": "Mahesh",
   "license": "ISC",
